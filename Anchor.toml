@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.localnet]
+mutualfund = "Dx1pY8mQrPnCMPGqcxvywRxNxBb4KEV4Rj2dbgVvxraU"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "./id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
