@@ -8,6 +8,17 @@ Note: [cluster](https://docs.solana.com/cluster/overview) set on devnet
 
 To deploy this project run
 
+```bash
+git clone https://github.com/1111-1993/Mutual-fund.git
+```
+```bash 
+anchor build
+```
+```bash 
+anchor test
+```
+
+
 directory ``` mutual-fund/frontend ``` run
 
 ```bash
