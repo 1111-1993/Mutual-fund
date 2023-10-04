@@ -13,7 +13,9 @@ directory ``` mutual-fund/frontend ``` run
 ```bash
   npm start
 ```
+#### You will get below interface on your browser
 
+![App Screenshot](https://user-images.githubusercontent.com/81823816/272486768-8c8b2514-c39e-4d60-ad52-041c087fb4cb.png)
 ## Documentation
 
 [Solana](https://docs.solana.com/)
@@ -21,7 +23,4 @@ directory ``` mutual-fund/frontend ``` run
 [Anchor](https://www.anchor-lang.com/)
 
 [React](https://react.dev/)
-
-
-
 
